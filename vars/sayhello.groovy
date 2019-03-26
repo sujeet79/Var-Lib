@@ -1,4 +1,4 @@
-def myclass(name) {
+def class(name) {
 
 echo "Hello! ${name}"
 }
