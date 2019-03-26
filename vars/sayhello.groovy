@@ -1,4 +1,4 @@
-def myclass(String name = 'robot!') {
+def myclass(name) {
 
 echo "Hello! ${name}"
 }
